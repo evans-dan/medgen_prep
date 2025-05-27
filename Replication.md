@@ -8,3 +8,6 @@ A description of how DNA gets copied
 5. A different kind of DNA polymerase goes along the lagging strand and changes the RNA-friendly nucleotides (uracil) into DNA-friendly version (thymine).
 6. DNA ligase enzyme zips the neucleotides back up by recreating the hydrogen bonds between the original templated strand, and the newly created partner strand.
 7. DNA polymerase can also do a bit of proofreading and change incorrectly paired nucleotides. The error rate for replication mistakes is about 10e-10.
+
+# Replication Starting Points
+The "origin of replicaion" sites (aka ORI sites) occur at about 50k places in the human genome. Their sites are influenced by chromatin structure and other DNA activity.
