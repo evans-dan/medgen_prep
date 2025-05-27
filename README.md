@@ -32,9 +32,9 @@ and hopefully they remain that way. If you find a broken link, my apologies.
 
 ### DNA Structure and Function
   1. Double Helix Architecture: Insights into the Watson-Crick model.
-  1. Nucleotide Composition: Understanding the building blocks of DNA.
   1. Major and Minor Grooves: Their significance in protein-DNA interactions.
   1. DNA Supercoiling: Impact on gene accessibility and expression.
+  1. Nucleotide Composition: Understanding the building blocks of DNA.
   1. Replication Origins: Key sequences initiating DNA replication.
   1. Telomeres and Telomerase: Roles in chromosome protection and aging.
   1. Mutations and DNA Damage: Effects on gene function and regulation.
