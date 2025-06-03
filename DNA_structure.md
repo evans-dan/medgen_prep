@@ -3,7 +3,7 @@ From largest structure to smallest
 ## Chromosome
 This is the structure that houses everything below. In humans, we have 46 chromosomes autosomal pairs numbered 1-22 longest to shortest, and two sex chromsomes, X and Y.
 ## Chromatin
-This is the name of the complex of proteins and DNA. During meiosis, a chromosome splits into two chromatin structures. Two matched chromatins combined with a centromere = chromsome.
+This is the name of the complex of proteins and DNA. During meiosis, a chromosome splits into two chromatin structures. Two matched ("sister") chromatids combined with a centromere = chromsome.
 ## DNA Supercoiling
 DNA can form structures based on how loosely (undercoiled) or tightly (overcoiled) twisted it is. When the helix is overcoiled, the minor groove gets smaller; when it's undertwisted, the minor groove gets further apart (see section below).
 ## Heterochromatin
