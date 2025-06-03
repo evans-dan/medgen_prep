@@ -6,3 +6,5 @@
    * This is a long video with a lot of parts in it. Covers chromatin, histone proteins, a quick overview of histone and methyl group epigenetics.
 3. "Telomeres, Centromeres, Telomerase, Hererochromatin, Euchromatin, Histones | Molecular Biology" URL: https://www.youtube.com/watch?v=-rB6nfIMyRc
    * self explanatory
+1. "Structure of A Gene | Regulatory Elements | Coding Regions" https://www.youtube.com/watch?v=5E__MDwxJOA
+   * covers eykaryotic gene structure: promoters, enhancers, silencers, UTRs, exons, introns, start/stop codons. 
