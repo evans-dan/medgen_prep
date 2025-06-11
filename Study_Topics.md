@@ -1,3 +1,6 @@
+# Course descriptions
+medg520: Gene structure and regulation, genetic and epigenetic variation, genome and epigenome analysis, stem cell genetics, personalized genetics, bioinformatics, pharmacogenetics and genomics. 
+
 # Study Topics
 A list of topics suggested to me by ChatGPT.
 
