@@ -10,6 +10,7 @@ DNA can form structures based on how loosely (undercoiled) or tightly (overcoile
 Tightly packed groups of DNA-wrapped histones. Can be sufficiently tightly wrapped to inhibit gene translation.
 ## Nucleosome
 The basic "packed" DNA unit. DNA is wrapped twice around a histone protein complex ("like thread on a spool"), an octomer of H2A, H2B, H3 and H4 (all of those numbers should be subscripted!). Two of each of these four makes up the octomer.
+The double wrap and space to the next octomer is about 200bp. So a 1kb gene would have about five nucleosomes.
 ## DNA
 - DNA is a double helix formed of a phosphate and five-carbon sugar backbone, plus a nucleotide.
 - A pentose (five carbon sugar) is connected to the phosphate "above" it at its 5' carbon, and at the phosphate "below" at its 3' carbon. If you think of 5' as above and 3' as below, transcription moves "down" the DNA.
