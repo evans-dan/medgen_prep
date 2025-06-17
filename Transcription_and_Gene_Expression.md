@@ -29,3 +29,5 @@ ISWI
 NuRD/Mi2/Chd
 * mediates transcriptional reoression
 * is required for the pluripotency of embryonic stem cells
+## Transcription factors
+In eukaryotic cells, RNA polymerase needs another protein to get into the DNA to start making RNA. That protein is a transcription factor. There are three kinds.
