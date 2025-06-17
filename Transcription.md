@@ -18,6 +18,8 @@ All the NRC types have an ATPase domain; they need ATP to operate given how ener
 | SWI/SWF | 8-11 | Bromo | Y | Y | Y |
 | ISWI | 2-4 | No | Y | N | N |
 | Mi2/Chd | 8-10 | Chromo | Y | N | N |
+#### Bromo/Chromodomains
+These are protein domains that are involved in gene regulation. They bind to specific histone modifications: bromodomains bind to acetylated lysine residues, chromodomains typically bind to methylated lysine residues. Their interactions help recruit other proteins to specific locations in DNA, which can influenec gene expression.
 
 ISWI
 * organizes nucleosomes into their proper form
