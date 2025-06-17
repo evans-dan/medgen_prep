@@ -29,5 +29,13 @@ ISWI
 NuRD/Mi2/Chd
 * mediates transcriptional reoression
 * is required for the pluripotency of embryonic stem cells
-## Transcription factors
-In eukaryotic cells, RNA polymerase needs another protein to get into the DNA to start making RNA. That protein is a transcription factor. There are three kinds.
+## Transcription factors and transcription
+In eukaryotic cells, there are three kinds of RNA polymerases that each make different kinds of RNA. They all needs another protein to get into the DNA to start making RNA, which is called a general transcription factor.
+### Transcription factor I
+TF I makes rRNA (ribosomal), which goes to the ribosome, then is translated.
+### Transcription factor II
+TF II makes mRNA. mRNA is modified (splicing), then translated. This process also makes small nuclear RNAs (snRNA), which are involved in the process of splicing.
+### Transcription factor III
+TF III makes tRNA (transfer), some snRNA, and a little rRNA.
+
+The process of changing the speed of transcription of a gene is called "gene regulation", and has its own file.
