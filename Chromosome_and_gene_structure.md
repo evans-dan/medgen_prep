@@ -18,12 +18,17 @@ The segments of chromsomes that are transcribed to RNA, and from RNA to protein.
 * Enhancers/silencers
     * Regions that either stimulate or suppress transcription (or the rate of transcription) of the gene
     * 50-1000bp upstream of the start position
-* Promotors
+* Promoters
     * Signals where transcription begins.
     * About 25bp upstream of transcription start site.
     * Sequence is TATAA (hence it's called the "TATA box")
     * They can specify transcription start sites
     * Transcription with normal promoter and without the influence of regulatory sequences is called "basal transcription".
+ * Initiator element (Inr)
+    * often overlaps the transcription start site
+    * can function independently or in conjunction with other promoter elements like the TATA box
+    * consensus sequence in humans is YYANWYY, where Y = C or T, N is any base, W is A or T.
+    * simplest functional promoter that can direct transcription initiation without a functional TATA box
  * UTRs (untranslated regions)
     * Exist on both the 5' and 3' end of the gene.
     * They are translated to RNA, but are then removed during splicing/processing of mRNA
