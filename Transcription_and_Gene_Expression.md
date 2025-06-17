@@ -1,5 +1,5 @@
 # Transcription
-DNA is wrapped around histone octomers tightly enough to inhibit accessibility by RNA polymerase. How does transcription start? One process is the acetylation or methylation of the histone octomer, which will electrostatically push the DNA away from the histones, making it accessible. And then there is...
+DNA is wrapped around histone octomers tightly enough to inhibit accessibility by RNA polymerase. How does transcription start? One process is the acetylation or methylation of the histone octomer, which will electrostatically push the DNA away from the histones, making it accessible. And then there is:
 
 ## Nucleosome Remodeling Complex ("NRC")
 The NRC changes how the DNA is wrapped around the octomer so it can be accessed by RNA polymerase. NRCs are ATP-driven, because what they do is highly energetic: they can move, eject, or restructure nucleosomes.
