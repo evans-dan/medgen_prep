@@ -18,3 +18,6 @@
 1. "Cell Biology | DNA Transcription" URL: https://www.youtube.com/watch?v=ZrCx98CtJ_4
    * Covers the process of transcription for rRNA, mRNA, snRNA, gene regulation (enhancers, silencers), general and specific transcription factors.
    * Usefulness: 8/10
+1. "ncRNAs - all types of non-coding RNA (lncRNA, tRNA, rRNA, snRNA, snoRNA, siRNA, miRNA, piRNA)" URL: https://www.youtube.com/watch?v=hKU8JQOgYmU
+   * Very fast overview of several types of noncoding RNAs, with short comments on broad categories of function.
+   * Usefulness: 6/10
