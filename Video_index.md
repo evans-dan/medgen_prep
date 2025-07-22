@@ -21,3 +21,7 @@
 1. "ncRNAs - all types of non-coding RNA (lncRNA, tRNA, rRNA, snRNA, snoRNA, siRNA, miRNA, piRNA)" URL: https://www.youtube.com/watch?v=hKU8JQOgYmU
    * Very fast overview of several types of noncoding RNAs, with short comments on broad categories of function.
    * Usefulness: 6/10
+1. "micro RNA | What is microRNA (miRNA)? | How miRNAs work? | How miRNAs are detected experimentally?" URL: https://www.youtube.com/watch?v=hY3TYEo24PY
+   * Overview of roles, mechanism of how they downregulate genes, the role played in stem cell type determination (tissue-specific expression), cancer, and some ways to detect miRNA experimentally.
+   * Usefulness: 7/10
+
