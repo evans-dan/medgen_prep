@@ -24,4 +24,17 @@
 1. "micro RNA | What is microRNA (miRNA)? | How miRNAs work? | How miRNAs are detected experimentally?" URL: https://www.youtube.com/watch?v=hY3TYEo24PY
    * Overview of roles, mechanism of how they downregulate genes, the role played in stem cell type determination (tissue-specific expression), cancer, and some ways to detect miRNA experimentally.
    * Usefulness: 7/10
+1. "Gene Regulation Explained: Mechanisms & Pathways" URL: https://www.youtube.com/shorts/PRBQrqiUeIA
+   * has very little to do with pathways; it's a one minute overview of dna to protein.
+   * Usefulness: 2/10
+1. "Chromatin Biology: Epigenetics and the Regulation of Gene Activity" URL: https://www.youtube.com/watch?v=XelGO582s4U
+   * A very quick overview of epigenetic changes, including histone and DNA methylation.
+   * Usefulness: 5/10
+1. "Drosophila: Small fly, BIG impact - Part 1 (Why the fly?)" URL: https://www.youtube.com/watch?v=qDbJnFLl3kU Part 2: https://www.youtube.com/watch?v=C9FSf6nhDSc
+   * Lay overview of how fruit flies started being used in genetics. Interesting, but little detail other than the hedgehog gene, then 
+   * Usefulness: 4/10
+1. "Fruit Fly Genetics Simulation" URL: https://www.youtube.com/watch?v=vjMz8HaRFSA
+   * Basically a set of cards to buy that have various fly phenotypes displayed on them.
+   * Usefulness: 1/10
+
 
