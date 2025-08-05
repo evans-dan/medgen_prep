@@ -7,7 +7,7 @@ These are discrete 3D structures within the nucleus where regions of DNA interac
 ## Nuclear lamina
 The lamina is a network of proteins that lines the nucleus. It can interact with chromatin and DNA by acting as an "anchor" for specific genomic regions that often leads to gene repression with lamina associated domains (LADs). These domains are also plastic; they can change during various cell cycles like differentiation and development.
 ## Epigenetic changes
-Some non-base changes to DNA can stably passed on, both through cell division, and even be passed to offspring. Epigenetic "marks" like methylated DNA sequences or histone modifications.  These changes can affect whether a gene expresses or not, which can change the amount of the associated protein.
+Some non-base changes to DNA can stably passed on, both through cell division, and even be passed to offspring. Epigenetic "marks" like methylated DNA sequences or histone modifications.  These changes can affect whether a gene expresses or not, which can change the amount of the associated protein. Methylating DNA can "permanently" close off a particular region of DNA from being available for transcription.
 ## miRNA
 Micro RNA can downregulate both individual genes, and entire gene modules. miRNA sits with the RISC complex on the (usually) 3'UTR of a gene to inhibit the ribosome from cleaving during translation.
 
