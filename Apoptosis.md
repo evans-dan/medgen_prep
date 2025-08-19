@@ -13,15 +13,15 @@ There are other cell death pathways that aren't apoptosis or necrosis; there are
 - Apoptosis is what separates the paddle into fingers. Tadpoles "resorb" their tails via apoptosis.
 ### Regulation
 - Apoptosis regulates the number of cells in people.
-  -- Blood cells are constantly being manufactured. If they were never recycled, we'd have way too many blood cells and that's not good.
-  -- "Too many cells" is also a feature of tumors. Failed apoptosis or dysregulated apoptotic pathways are implicated in cancer, and are a potential therapeutic target (see the "Intrinsic apoptosis pathway" below for some more detail).
+  - Blood cells are constantly being manufactured. If they were never recycled, we'd have way too many blood cells and that's not good.
+  - "Too many cells" is also a feature of tumors. Failed apoptosis or dysregulated apoptotic pathways are implicated in cancer, and are a potential therapeutic target (see the "Intrinsic apoptosis pathway" below for some more detail).
 - Elimination of damaged cells
-  -- A cell can detect when its DNA is damaged. First, the cell will try to repair the damage. If that doesn't work, it can initiate the *intrinsic apoptisis pathway*.
-  -- A damaged cell may also be identified from the outside by the immune system. That cell can be tagged in a way that initiates the *extrinsic apoptosis pathway*.
+  - A cell can detect when its DNA is damaged. First, the cell will try to repair the damage. If that doesn't work, it can initiate the *intrinsic apoptisis pathway*.
+  - A damaged cell may also be identified from the outside by the immune system. That cell can be tagged in a way that initiates the *extrinsic apoptosis pathway*.
 - Immune system
-  -- During B and T cell production, apoptosis eliminates cells that are non-functional.
-  -- Also used to destroy overactive immune cells that are attacking the body itself ("autoimmunity").
-  -- Regulates T and B cells after an immune response.
+  - During B and T cell production, apoptosis eliminates cells that are non-functional.
+  - Also used to destroy overactive immune cells that are attacking the body itself ("autoimmunity").
+  - Regulates T and B cells after an immune response.
 ## Intrinsic and Extrinsic apoptosis pathways
 Apoptosis is begun when there is a lot of a protein called caspase 3 (Cas3) inside the cell. Cas3 initiates the release of both proteases (protein-lysing enzymes) and nucleases (DNA-lysing enzyme), which breaks down the constituents and structure of the cell. Any cell with high levels of Cas3 is about to die.
 ### Intrinsic
