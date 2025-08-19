@@ -36,5 +36,11 @@
 1. "Fruit Fly Genetics Simulation" URL: https://www.youtube.com/watch?v=vjMz8HaRFSA
    * Basically a set of cards to buy that have various fly phenotypes displayed on them.
    * Usefulness: 1/10
+1. "Apoptosis | Cell division | Biology | Khan Academy" URL: https://www.youtube.com/watch?v=gNFDONSjB7Q
+   * An overview of apoptosis. Defines necrosis vs apoptosis; how apoptosis is used both as regulation and during development; intrinsic vs extrinsic triggering.
+   * Usefulness: 8/10
+1. "Programmed Cell Death (apoptosis)" URL: https://www.youtube.com/watch?v=wkWLmlSUlqg
+   * Some more detail on the signaling process that leads to apoptotsis in intrinsic and extrinsic apoptosis pathways.
+   * Usefulness: 8/10
 
 
